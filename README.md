@@ -20,3 +20,7 @@ Discord: CaioM#9647 :pig:
 email: cmolinaro19@gmail.com :mailbox_with_no_mail: 
 
 Obrigado :wave: :facepunch: :open_hands:
+
+
+
+PS: O mascote do Discord é um porco, sou fã de jogos, Marvel, animes, pode me chamar pra trocar uma ideia sobre isso também :smirk:
