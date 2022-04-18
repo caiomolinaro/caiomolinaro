@@ -15,8 +15,8 @@ Stacks na qual estou estudando::computer:
 
 Tenho interesse em aprender mais e entrar na área :boy:
 
-Se quiser falar comigo:  
-Discord: CaioM#9647  
-email: cmolinaro19@gmail.com  
+Se quiser falar comigo::sunglasses:  
+Discord: CaioM#9647:pig:  
+email: cmolinaro19@gmail.com :mailbox_with_no_mail: 
 
 Obrigado :wave: :facepunch: :open_hands:
