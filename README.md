@@ -1,16 +1,22 @@
-### Hi there 👋
+# SEJA BEM VINDO :flushed:
 
-<!--
-**caiomolinaro/caiomolinaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Caio Molinaro, tenho 21 anos, me formei na ETEC no curso de Técnico em Informática, trabalhei como autonomo na função de técnico, agora estou migrando para a área de desenvolvimento :alien:
 
-Here are some ideas to get you started:
+Estou estudando em plataformas e bootcamp online como DIO e Rocketseat :relieved:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Stacks na qual estou estudando::computer:    
+:star: JavaScript  
+:star: NodeJS  
+:star: Express  
+:star: ReactJS  
+:star: Python  
+:star: Django  
+:star: Banco de dados (SQL & NOSQL)  
+
+Tenho interesse em aprender mais e entrar na área :boy:
+
+Se quiser falar comigo:  
+Discord: CaioM#9647  
+email: cmolinaro19@gmail.com  
+
+Obrigado :wave: :facepunch: :open_hands:
