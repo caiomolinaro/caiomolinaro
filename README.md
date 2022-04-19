@@ -5,13 +5,13 @@ Me chamo Caio Molinaro, tenho 21 anos, me formei na ETEC no curso de Técnico em
 Estou estudando em plataformas e bootcamp online como DIO e Rocketseat :relieved:
 
 Stacks na qual estou estudando::computer:    
-:star: JavaScript  
+:space_invader: JavaScript  
 :star: NodeJS  
-:star: ExpressJS   
+:space_invader: ExpressJS   
 :star: ReactJS  
-:star: Python  
+:space_invader: Python  
 :star: Django  
-:star: Banco de dados (SQL & NOSQL)  
+:space_invader: Banco de dados (SQL & NOSQL)  
 
 Tenho interesse em aprender mais e entrar na área :boy:
 
@@ -25,4 +25,3 @@ Obrigado :wave: :facepunch: :walking:
 
 PS: O mascote do Discord é um porco, sou fã de jogos, Marvel, animes, pode me chamar pra trocar uma ideia sobre isso também :smirk:
 
-:space_invader:
