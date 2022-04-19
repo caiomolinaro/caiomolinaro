@@ -2,7 +2,7 @@
 
 Me chamo Caio Molinaro, tenho 21 anos, me formei na ETEC no curso de Técnico em Informática, trabalhei como autônomo na função de técnico, agora estou migrando para a área de desenvolvimento :alien:
 
-Estou estudando em plataformas e bootcamp online como DIO e Rocketseat :relieved:
+Estou estudando em plataformas e bootcamp online como DIO e outras :relieved:
 
 Stacks na qual estou estudando::computer:    
 :space_invader: HTML/CSS  
