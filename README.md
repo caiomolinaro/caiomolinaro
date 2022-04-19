@@ -4,7 +4,7 @@ Me chamo Caio Molinaro, tenho 21 anos, me formei na ETEC no curso de Técnico em
 
 Estou estudando em plataformas e bootcamp online como DIO e outras :relieved:
 
-Stacks na qual estou estudando::computer:    
+Stacks que estou estudando::computer:    
 :space_invader: HTML/CSS  
 :star: JavaScript  
 :space_invader: NodeJS  
@@ -15,7 +15,8 @@ Stacks na qual estou estudando::computer:
 :star: Python  
 :space_invader: Django  
 :star: Flask   
-:space_invader: Bando de Dados (SQL & NOSQL)
+:space_invader: Bando de Dados (SQL & NOSQL)  
+:star: Nuvem  
 
 Tenho interesse em aprender mais e entrar na área :boy:
 
