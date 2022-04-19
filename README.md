@@ -1,6 +1,6 @@
 # SEJA BEM VINDO :flushed:
 
-Me chamo Caio Molinaro, tenho 21 anos, me formei na ETEC no curso de Técnico em Informática, trabalhei como autonomo na função de técnico, agora estou migrando para a área de desenvolvimento :alien:
+Me chamo Caio Molinaro, tenho 21 anos, me formei na ETEC no curso de Técnico em Informática, trabalhei como autônomo na função de técnico, agora estou migrando para a área de desenvolvimento :alien:
 
 Estou estudando em plataformas e bootcamp online como DIO e Rocketseat :relieved:
 
@@ -19,7 +19,7 @@ Se quiser falar comigo: :sunglasses:
 Discord: CaioM#9647 :pig:  
 email: cmolinaro19@gmail.com :mailbox_with_no_mail: 
 
-Obrigado :wave: :facepunch: :open_hands:
+Obrigado :wave: :facepunch: :walking:
 
 
 
