@@ -10,6 +10,8 @@ Stacks na qual estou estudando::computer:
 :space_invader: NodeJS  
 :star: ExpressJS   
 :space_invader: ReactJS  
+:star: TypeScript  
+👾 Angular  
 :star: Python  
 :space_invader: Django  
 :star: Banco de dados (SQL & NOSQL)  
