@@ -24,5 +24,5 @@ Obrigado :wave: :facepunch: :walking:
 
 
 
-PS: O mascote do Discord é um porco, sou fã de jogos, Marvel, animes, pode me chamar pra trocar uma ideia sobre isso também :smirk:
+PS: O mascote do Discord é um porco, sou fã de Jogos, Marvel, DC, Animes, e muita Música pode me chamar pra trocar uma ideia sobre isso também :smirk:
 
