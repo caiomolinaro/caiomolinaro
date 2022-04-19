@@ -14,7 +14,8 @@ Stacks na qual estou estudando::computer:
 :space_invader: Angular  
 :star: Python  
 :space_invader: Django  
-:star: Banco de Dados (SQL & NOSQL)  
+:star: Flask   
+:space_invader: Bando de Dados (SQL & NOSQL)
 
 Tenho interesse em aprender mais e entrar na área :boy:
 
