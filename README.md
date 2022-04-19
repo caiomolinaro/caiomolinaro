@@ -7,7 +7,7 @@ Estou estudando em plataformas e bootcamp online como DIO e Rocketseat :relieved
 Stacks na qual estou estudando::computer:    
 :star: JavaScript  
 :star: NodeJS  
-:star: Express  
+:star: ExpressJS   
 :star: ReactJS  
 :star: Python  
 :star: Django  
