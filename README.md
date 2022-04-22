@@ -18,6 +18,8 @@ Stacks I'm studying: :computer:
 :space_invader: Database (SQL & NOSQL)  
 :star: Cloud  
 
+:question: Maybe in future learn C# and ASP.NET Core
+
 I'm interested in learning more and working in the development area :boy:
 
 If you want to talk to me: :sunglasses:
