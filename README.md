@@ -18,7 +18,7 @@ Stacks I'm studying: :computer:
 :space_invader: Cloud
 
 
-:question: In future i want learn React-Native & Electron  
+:question: In future i want learn React Native & Electron  
 
 I'm interested in learning more and working in the development area :boy:
 
