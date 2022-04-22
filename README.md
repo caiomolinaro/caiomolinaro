@@ -30,4 +30,4 @@ Thanks :wave: :facepunch: :walking:
 
 
 
-PS: Discord's mascot is a pig, I'm a fan of Games, Marvel, DC, Animes, and a lot of Music can call me to talk about it too :smirk:
+PS: Discord's mascot is a pig, I'm a fan of Games, Marvel, DC, Animes, and a lot of Music you can text me to talk about it too :smirk:
