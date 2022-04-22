@@ -14,7 +14,7 @@ Stacks I'm studying: :computer:
 :space_invader: Angular  
 :star: Python  
 :space_invader: Django  
-:star: flask  
+:star: Flask  
 :space_invader: Database (SQL & NOSQL)  
 :star: Cloud  
 
