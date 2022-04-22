@@ -1,32 +1,31 @@
-# SEJA BEM VINDO :flushed:
+# WELCOME :flushed:
 
-Me chamo Caio Molinaro, tenho 21 anos, me formei na ETEC no curso de Técnico em Informática, trabalhei como autônomo na função de técnico, agora estou migrando para a área de desenvolvimento :alien:
+My name is Caio Molinaro, I'm 21 years old, I graduated from ETEC in the Computer Technician course, I worked as a freelancer as a technician, now I'm migrating to the development area :alien:
 
-Estou estudando em plataformas e bootcamp online como DIO e outras :relieved:
+I'm studying on platforms and online bootcamp like DIO and others :relieved:
 
-Stacks que estou estudando::computer:    
+Stacks I'm studying: :computer:  
 :space_invader: HTML/CSS  
 :star: JavaScript  
 :space_invader: NodeJS  
-:star: ExpressJS   
+:star: ExpressJS  
 :space_invader: ReactJS  
 :star: TypeScript  
 :space_invader: Angular  
 :star: Python  
 :space_invader: Django  
-:star: Flask   
-:space_invader: Bando de Dados (SQL & NOSQL)  
-:star: Nuvem  
+:star: flask  
+:space_invader: Database (SQL & NOSQL)  
+:star: Cloud  
 
-Tenho interesse em aprender mais e entrar na área :boy:
+I'm interested in learning more and working in the development area :boy:
 
-Se quiser falar comigo: :sunglasses:  
-Discord: CaioM#9647 :pig:  
-email: cmolinaro19@gmail.com :mailbox_with_no_mail: 
+If you want to talk to me: :sunglasses:
+Discord: CaioM#9647 :pig:
+email: cmolinaro19@gmail.com :mailbox_with_no_mail:
 
-Obrigado :wave: :facepunch: :walking:
+Thanks :wave: :facepunch: :walking:
 
 
 
-PS: O mascote do Discord é um porco, sou fã de Jogos, Marvel, DC, Animes, e muita Música pode me chamar pra trocar uma ideia sobre isso também :smirk:
-
+PS: Discord's mascot is a pig, I'm a fan of Games, Marvel, DC, Animes, and a lot of Music can call me to talk about it too :smirk:
