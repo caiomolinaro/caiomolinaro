@@ -2,7 +2,7 @@
 
 My name is Caio Molinaro, I'm 21 years old, I graduated from ETEC in the Computer Technician course, I worked as a freelancer as a technician, now I'm migrating to the development area :alien:
 
-I'm studying on online platforms and bootcamp like DIO and others :relieved:
+I'm studying on online platforms and bootcamp :relieved:
 
 Stacks I'm studying: :computer:  
 :space_invader: HTML/CSS  
