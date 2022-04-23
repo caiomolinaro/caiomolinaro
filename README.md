@@ -20,7 +20,9 @@ Stacks I'm studying: :computer:
 
 :question: In future i want learn React Native & Electron  
 
-I'm interested in learning more and working in the development area :boy:
+I'm interested in learning more and working in the development area :boy:  
+
+:penguin:  I use Windows 10 with Windows Subsystem for Linux, with Ubuntu  
 
 If you want to talk to me: :sunglasses:
 Discord: CaioM#9647 :pig:
