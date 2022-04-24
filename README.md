@@ -18,7 +18,7 @@ Stacks I'm studying: :computer:
 :space_invader: Cloud
 
 
-:question: In future i want learn C# and ASP.NET Core      
+:question: In future i want learn React Native and ElectronJS       
 
 I'm interested in learning more and working in the development area :boy:  
 
