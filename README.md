@@ -22,7 +22,7 @@ Stacks I'm studying: :computer:
 
 I'm interested in learning more and working in the development area :boy:  
 
-I love Internet, Windows and Android (i like Linux and Apple too, i'm fascinated with every tech), my focus is Web Dev, Android Dev and Windows Dev :sparkles:
+I love Internet and i'm fascinated with every tech :sparkles:
 
 :penguin:  I use Windows 10 with Windows Subsystem for Linux, with Ubuntu, i love this feature  
 
