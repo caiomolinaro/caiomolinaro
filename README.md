@@ -17,9 +17,6 @@ Stacks I'm studying: :computer:
 :star: Database (SQL & NOSQL)   
 :space_invader: Cloud
 
-
-:question: In future i want learn React Native and ElectronJS       
-
 I'm interested in learning more and working in the development area :boy:  
 
 I love Internet and i'm fascinated with every tech :sparkles:
