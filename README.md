@@ -22,8 +22,6 @@ Stacks I'm studying: :computer:
 I'm interested in learning more and working in the web development area :boy:  
 I love Internet and i'm fascinated with every tech :sparkles:
 
-:penguin:  I use Windows 10 with Windows Subsystem for Linux, with Ubuntu, i love this feature  
-
 If you want to talk to me: :sunglasses:  
 Discord: CaioM#9647 :pig:  
 email: cmolinaro19@gmail.com :mailbox_with_no_mail:  
