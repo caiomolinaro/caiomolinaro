@@ -14,11 +14,12 @@ Stacks I'm studying: :computer:
 :space_invader: Angular  
 :star: Python  
 :space_invader: Django  
+:star: C#  
+:space_invader: ASP.NET Core  
 :star: Database (SQL & NOSQL)   
 :space_invader: Cloud
 
 I'm interested in learning more and working in the development area :boy:  
-
 I love Internet and i'm fascinated with every tech :sparkles:
 
 :penguin:  I use Windows 10 with Windows Subsystem for Linux, with Ubuntu, i love this feature  
