@@ -1,6 +1,6 @@
 # WELCOME :flushed:
 
-My name is Caio Molinaro, I'm 21 years old, I graduated from ETEC in the Computer Technician course, I work as a technician and I'm learning the development area :alien:
+My name is Caio Molinaro, I'm 21 years old, I graduated from ETEC in the Computer Technician course, I work as a technician and I'm learning the web development area :alien:
 
 I'm studying on online platforms and bootcamp :relieved:
 
@@ -19,7 +19,7 @@ Stacks I'm studying: :computer:
 :star: Database (SQL & NOSQL)   
 :space_invader: Cloud
 
-I'm interested in learning more and working in the development area :boy:  
+I'm interested in learning more and working in the web development area :boy:  
 I love Internet and i'm fascinated with every tech :sparkles:
 
 :penguin:  I use Windows 10 with Windows Subsystem for Linux, with Ubuntu, i love this feature  
