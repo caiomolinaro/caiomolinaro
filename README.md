@@ -1,6 +1,6 @@
 # WELCOME :flushed:
 
-My name is Caio Molinaro, I'm 21 years old, I graduated from ETEC in the Computer Technician course, I work as a technician and I'm learning the web development area :alien:
+My name is Caio Molinaro, I'm 21 years old, I graduated from ETEC in the Computer Technician course, I work as a technician and I'm learning the development area :alien:
 
 I'm studying on online platforms and bootcamp :relieved:
 
@@ -14,12 +14,10 @@ Stacks I'm studying: :computer:
 :space_invader: Angular  
 :star: Python  
 :space_invader: Django  
-:star: C#  
-:space_invader: ASP.NET Core  
 :star: Database (SQL & NOSQL)   
 :space_invader: Cloud
 
-I'm interested in learning more and working in the web development area :boy:  
+I'm interested in learning more and working in the development area :boy:  
 I love Internet and i'm fascinated with every tech :sparkles:
 
 If you want to talk to me: :sunglasses:  
