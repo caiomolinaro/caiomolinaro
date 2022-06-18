@@ -15,7 +15,7 @@ Stacks I'm studying: :computer:
 :star: Python  
 :space_invader: Django  
 :star: Database (SQL & NOSQL)   
-:space_invader: Cloud(Azure, Google Cloud & AWS)    
+:space_invader: Cloud(AWS, Aure & Google Cloud)    
 
 I'm interested in learning more and working in the development area :boy:  
 I love Internet and i'm fascinated with every tech :sparkles:
