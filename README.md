@@ -15,7 +15,9 @@ Stacks I'm studying: :computer:
 :star: Python  
 :space_invader: Django  
 :star: Database (SQL & NOSQL)   
-:space_invader: Cloud
+:space_invader: Cloud  
+:star: C#   
+:space_invader: ASP.NET Core
 
 I'm interested in learning more and working in the development area :boy:  
 I love Internet and i'm fascinated with every tech :sparkles:
