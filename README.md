@@ -21,7 +21,7 @@ Hello and welcome, my name is Caio I'm 22 years old :upside_down_face:	, I'm cur
 
 :alien: AWS  
 
-:pizza: I really like games and anime and I'm interested in learning some game development too  
+:pizza: I like games and anime and I'm interested in learning some game development too  
 
 If you want to talk, send me an email: cmolinaro19@gmail.com :email:  
 
