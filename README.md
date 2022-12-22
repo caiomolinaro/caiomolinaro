@@ -1,4 +1,4 @@
-Hello and welcome, my name is Caio I'm 22 years old :upside_down_face: I'm currently a college student and I'm focused in full stack web development :desktop_computer:
+Hello and welcome, my name is Caio i'm 22 years old :upside_down_face: I'm currently a college student and my focus is full stack web development :desktop_computer:
 -------------
 :star: Stacks I'm learning:
 
@@ -22,7 +22,7 @@ Hello and welcome, my name is Caio I'm 22 years old :upside_down_face: I'm curre
 -------------
 :alien: AWS  
 -------------
-:pizza: I like games and anime and I'm interested in learning game development for hobby (Unity, Unreal Engine, C++ & C#) :video_game:   
+:pizza: I like games and anime, i'm interested in learning game development for hobby (Unity, Unreal Engine, C++ & C#) :video_game:   
 
 If you want to talk, send me an email: cmolinaro19@gmail.com :email:  
 
