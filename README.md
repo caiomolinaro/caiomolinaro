@@ -20,7 +20,7 @@ Hello and welcome, my name is Caio i'm 22 years old :upside_down_face: I'm curre
 :alien: PostgreeSQL  
 :space_invader: MongoDB  
 -------------
-:alien: AWS  
+:cloud: Cloud    
 -------------
 :pizza: I like games, anime, pizza & burger :video_game:   
 
