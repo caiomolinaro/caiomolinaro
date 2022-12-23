@@ -1,4 +1,4 @@
-Hello and welcome, my name is Caio i'm 22 years old :upside_down_face: I'm currently a college student and my focus is full stack web development :desktop_computer:
+Hello and welcome, my name is Caio i'm 22 years old :upside_down_face: I'm currently a college student and my focus is full stack JavaScript & Python development :desktop_computer:
 -------------
 :star: Stacks I'm learning:
 
