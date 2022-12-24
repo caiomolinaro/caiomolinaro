@@ -4,11 +4,11 @@ Hello and welcome, my name is Caio i'm 22 years old :upside_down_face: I'm curre
 :star: Stacks I'm learning:
 
 :space_invader: JavaScript    
-:alien: Python  
-:space_invader: Node.JS    
-:alien: Database (SQL & NOSQL)   
-:space_invader: Cloud  
-:alien: I want to learn C# too 
+:alien: Node.js  
+:space_invader: Express.js      
+:alien: Python      
+:space_invader: Django  
+:alien: Cloud
 
 ------------
  
