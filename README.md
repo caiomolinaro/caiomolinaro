@@ -8,7 +8,8 @@ Hello and welcome, my name is Caio i'm 22 years old :upside_down_face: I'm curre
 :space_invader:Express.js      
 :alien:Python      
 :space_invader:Django  
-:alien:Cloud
+:alien:Database (SQL & NOSQL)  
+:space_invader:Cloud 
 
 ------------
  
