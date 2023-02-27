@@ -3,13 +3,12 @@ Hello and welcome, my name is Caio i'm 22 years old :upside_down_face: I'm curre
 -------------
 :star: Stacks I'm learning:
 
-:space_invader:JavaScript    
-:alien:Node.js  
-:space_invader:Express.js      
-:alien:Python      
-:space_invader:Django  
-:alien:Database (SQL & NOSQL)  
-:space_invader:Cloud 
+:space_invader: Python    
+:alien: Django  
+:space_invader: JavaScript      
+:alien: Node.JS      
+:space_invader: Database (SQL & NOSQL)   
+:alien: Cloud 
 
 ------------
  
