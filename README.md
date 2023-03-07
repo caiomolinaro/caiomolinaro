@@ -7,8 +7,9 @@ Hello and welcome, my name is Caio i'm 22 years old :upside_down_face: I'm curre
 :alien: Django  
 :space_invader: JavaScript      
 :alien: Node.JS      
-:space_invader: Database (SQL & NOSQL)   
-:alien: Cloud 
+:space_invader: ExpressJS   
+:alien: Database (SQL & NOSQL)  
+:space_invader: Cloud 
 
 :star: In the future I intend to learn React.Js and Angular and become a Fullstack developer  
 
