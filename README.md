@@ -11,6 +11,8 @@ Hello and welcome, my name is Caio i'm 22 years old :upside_down_face: I'm curre
 :alien: Database (SQL & NOSQL)  
 :space_invader: Cloud 
 
+:star: In the future I intend to learn React.Js and Angular and become a Fullstack developer  
+
 ------------
  
 :pizza: I love games, animes, music & food :video_game:   
