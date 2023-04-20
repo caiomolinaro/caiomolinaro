@@ -1,4 +1,4 @@
-Hello and welcome, my name is Caio i'm 22 years old :upside_down_face: I'm currently a college student and my focus for now is backend development :desktop_computer:
+Hello and welcome, my name is Caio i'm 22 years old :upside_down_face: I'm currently a college student and my focus is backend development :desktop_computer:
 
 -------------
 :star: Stacks I'm learning:
@@ -10,8 +10,6 @@ Hello and welcome, my name is Caio i'm 22 years old :upside_down_face: I'm curre
 :space_invader: ExpressJS   
 :alien: Database (SQL & NOSQL)  
 :space_invader: Cloud 
-
-:star: In the future I intend to learn React.Js and Angular and become a Fullstack developer  
 
 ------------
  
