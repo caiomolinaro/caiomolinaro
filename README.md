@@ -13,8 +13,6 @@ Hello and welcome, my name is Caio i'm 22 years old :upside_down_face: I'm curre
 
 ------------
  
-:pizza: I love games, animes, music & food :video_game:   
-
 If you want to talk, send me an email: cmolinaro19@gmail.com :email:  
 
 :face_exhaling: bye... 
