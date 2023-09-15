@@ -1,4 +1,4 @@
-Olá me chamo Caio, tenho 22 anos, sou estudante da graduação de análise e desenvolvimento de sistemas, meu foco é em desenvolvimento Backend C# .NET
+Olá me chamo Caio, sou estudante da graduação de análise e desenvolvimento de sistemas, meu foco é em desenvolvimento Backend C# .NET
 
 ---
 
