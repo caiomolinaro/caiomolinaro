@@ -1,1 +1,19 @@
-Hello and welcome, my name is Caio i'm 22 years old I'm currently a college student and my focus is backend development
+Olá me chamo Caio, tenho 22 anos, sou estudante de graduação de análise e desenvolvimento de sistemas e meu foco é em desenvolvimento backend c# .net
+
+Possuo conhecimento em:
+-C# .NET (Com certificado de curso)
+-Lógica de Programação
+-Programação orientada a objetos
+-Funcionamento e sintaxe de bancos de dados SQL (Básico)
+-AWS (Básico)
+-Git/GitHub (Básico)
+
+Estou aprendendo:
+-ASP.NET Core (Realizando um curso)
+-ASP.NET Core Web Api (Realizando um curso)
+-Banco de dados NoSQL
+-Azure
+
+Além da faculdade, aprendo em cursos da Udemy, Microsoft Learn, AWS Educate/Skill Builder
+
+Para ver meus projetos: http://github.com/caiomolinaro
