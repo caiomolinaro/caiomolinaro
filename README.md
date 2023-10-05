@@ -3,7 +3,9 @@ Olá, me chamo Caio, sou estudante da graduação de análise e desenvolvimento 
 ---
 
 Possuo conhecimento em:  
--C# .NET (Com certificado de curso)  
+-C# .NET 
+-ASP.NET Core MVC  
+-Entity Framework Core  
 -Lógica de Programação  
 -Programação orientada a objetos  
 -Funcionamento e sintaxe de bancos de dados SQL (Básico)  
@@ -13,8 +15,7 @@ Possuo conhecimento em:
 ---
 
 Estou aprendendo:  
--ASP.NET Core (Realizando um curso)  
--ASP.NET Core Web Api (Realizando um curso)  
+-ASP.NET Core Web API  
 -Banco de dados NoSQL  
 -Azure  
 
