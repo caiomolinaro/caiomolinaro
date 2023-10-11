@@ -1,24 +1,27 @@
-Olá, me chamo Caio, sou estudante da graduação de análise e desenvolvimento de sistemas e meu foco é desenvolvimento backend
+:wave: Hello, my name is Caio, i'm systems analysis and development undergraduate student, my skill focus is backend .NET development  
 
 ---
 
-Possuo conhecimento em:  
--C# .NET   
--ASP.NET Core MVC    
--Entity Framework Core  
--Lógica de Programação  
--Programação orientada a objetos  
--Funcionamento e sintaxe de bancos de dados SQL (Básico)  
--AWS (Básico)  
--Git/GitHub (Básico)  
+:book: I have knowledge in: 
+
+:desktop_computer: C# .NET   
+:keyboard: ASP.NET Core MVC       
+:desktop_computer: Entity Framework Core     
+:keyboard: Programming logic   
+:desktop_computer: Object-oriented programming   
+:keyboard: Operation and syntax of SQL databases (Basic)   
+:desktop_computer: AWS (Basic)   
+:keyboard: Git/GitHub (Basic)   
+
 
 ---
 
-Estou aprendendo:  
--ASP.NET Core Web API  
--Banco de dados NoSQL  
--Azure  
+:books: I'm learning:    
+
+:desktop_computer: ASP.NET Core Web API    
+:keyboard: NOSQL Databases    
+:desktop_computer: Azure    
 
 ---
 
-Além da faculdade, aprendo em cursos da Udemy, Microsoft Learn, AWS Educate/Skill Builder
+:mortar_board: In addition to college, learning on courses from Udemy, Microsoft Learn, AWS Educate/Skill Builder
