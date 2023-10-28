@@ -25,3 +25,9 @@
 ---
 
 :mortar_board: In addition to college, learning on courses from Udemy, Microsoft Learn, AWS Educate/Skill Builder
+
+---
+
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,github,aws,)](https://skillicons.dev)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiomolinaro&theme=transparent&layout=compact)
+
