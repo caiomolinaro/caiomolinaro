@@ -1,14 +1,14 @@
-:wave: Hello, my name is Caio, i'm systems analysis and development undergraduate student, my skill focus is backend .NET development  
+:wave: Hello, my name is Caio, i'm systems analysis and development undergraduate student, my stack focus is backend .NET development  
 
 ---
 
-:book: I have knowledge in: 
+:book: I have skills in: 
 
 :desktop_computer: C# .NET   
 :keyboard: ASP.NET Core MVC       
 :desktop_computer: Entity Framework Core     
 :keyboard: Programming logic   
-:desktop_computer: Object-oriented programming   
+:desktop_computer: OOP   
 :keyboard: Operation and syntax of SQL databases (Basic)   
 :desktop_computer: AWS (Basic)   
 :keyboard: Git/GitHub (Basic)   
@@ -24,7 +24,7 @@
 
 ---
 
-:mortar_board: In addition to college, learning on courses from Udemy, Microsoft Learn, AWS Educate/Skill Builder
+:mortar_board: In addition to college, learning on courses from Udemy, Microsoft Learn, AWS Educate and AWS Skill Builder
 
 ---
 
