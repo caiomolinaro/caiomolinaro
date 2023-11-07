@@ -24,7 +24,7 @@
 
 ---
 
-:mortar_board: In addition to college, learning on courses from Udemy, Microsoft Learn, AWS Educate and AWS Skill Builder
+:mortar_board: In addition to college, i'm learning on courses from Udemy, Microsoft Learn, AWS Educate and AWS Skill Builder
 
 ---
 
