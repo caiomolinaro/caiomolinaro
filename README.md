@@ -5,20 +5,20 @@
 :book: I have skills in: 
 
 :desktop_computer: C# .NET   
-:keyboard: ASP.NET Core MVC       
-:desktop_computer: Entity Framework Core     
-:keyboard: Programming logic   
-:desktop_computer: OOP   
-:keyboard: SQL databases (Basic)   
-:desktop_computer: AWS (Basic)   
-:keyboard: Git/GitHub (Basic)   
+:keyboard: ASP.NET Core Web API    
+:desktop_computer: ASP.NET Core MVC       
+:keyboard: Entity Framework Core     
+:desktop_computer: Programming logic   
+:keyboard: OOP   
+:desktop_computer: SQL databases (Basic)   
+:keyboard: AWS (Basic)   
+:desktop_computer: Git/GitHub (Basic)   
 
 
 ---
 
 :books: I'm learning:    
 
-:desktop_computer: ASP.NET Core Web API    
 :keyboard: NOSQL Databases    
 :desktop_computer: Azure    
 
