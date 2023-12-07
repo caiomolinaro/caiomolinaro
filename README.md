@@ -2,7 +2,7 @@
 
 ---
 
-:book: I have skills in: 
+📖 I have skills in: 
 
 :desktop_computer: C# .NET   
 :keyboard: ASP.NET Core Web API    
@@ -17,7 +17,7 @@
 
 ---
 
-:books: I'm learning:    
+📚 I'm learning:    
 
 :keyboard: NOSQL Databases    
 :desktop_computer: Azure    
