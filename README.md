@@ -13,13 +13,7 @@
 :desktop_computer: Git/GitHub   
 :keyboard: SQL Databases    
 :desktop_computer:  AWS (Basic)   
-
----
-
-📚 I'm learning:    
-
-:keyboard: NOSQL Databases    
-:desktop_computer: Azure    
+:keyboard: NOSQL Databases (Basic)    
 
 ---
 
