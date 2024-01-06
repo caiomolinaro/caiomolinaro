@@ -10,10 +10,9 @@
 :keyboard: Entity Framework Core     
 :desktop_computer: Programming logic   
 :keyboard: OOP   
-:desktop_computer: SQL databases (Basic)   
-:keyboard: AWS (Basic)   
-:desktop_computer: Git/GitHub (Basic)   
-
+:desktop_computer: Git/GitHub   
+:keyboard: SQL databases (Basic)   
+:desktop_computer:  AWS (Basic)   
 
 ---
 
