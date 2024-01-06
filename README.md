@@ -11,7 +11,7 @@
 :desktop_computer: Programming logic   
 :keyboard: OOP   
 :desktop_computer: Git/GitHub   
-:keyboard: SQL databases (Basic)   
+:keyboard: SQL Databases    
 :desktop_computer:  AWS (Basic)   
 
 ---
