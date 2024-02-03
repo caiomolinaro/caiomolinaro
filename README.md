@@ -12,8 +12,8 @@
 :keyboard: OOP   
 :desktop_computer: Git/GitHub   
 :keyboard: SQL Databases    
-:desktop_computer:  AWS   
-:keyboard: NOSQL Databases       
+:desktop_computer: NoSQL Databases    
+:keyboard: AWS        
 
 ---
 
