@@ -22,7 +22,7 @@
 ---
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,visualstudio,aws,github)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,visualstudio,aws,github,mysql,mongodb)](https://skillicons.dev)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiomolinaro&theme=transparent&layout=compact)
 
