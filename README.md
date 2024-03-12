@@ -14,6 +14,7 @@
 :keyboard: SQL Databases    
 :desktop_computer: NoSQL Databases    
 :keyboard: AWS        
+:desktop_computer: Docker         
 
 ---
 
@@ -22,7 +23,7 @@
 ---
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,visualstudio,aws,github,mysql,mongodb)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,visualstudio,aws,github,mysql,mongodb,docker)](https://skillicons.dev)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiomolinaro&theme=transparent&layout=compact)
 
