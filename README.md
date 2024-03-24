@@ -8,13 +8,14 @@
 :keyboard: ASP.NET Core Web API    
 :desktop_computer: ASP.NET Core MVC       
 :keyboard: Entity Framework Core     
-:desktop_computer: Programming logic   
-:keyboard: OOP   
-:desktop_computer: Git/GitHub   
-:keyboard: SQL Databases    
-:desktop_computer: NoSQL Databases    
-:keyboard: AWS        
-:desktop_computer: Docker         
+:desktop_computer: Dapper  
+:keyboard: Programming logic   
+:desktop_computer: OOP   
+:keyboard: Git/GitHub   
+:desktop_computer: SQL Databases    
+:keyboard: NoSQL Databases    
+:desktop_computer: AWS        
+:keyboard: Docker         
 
 ---
 
