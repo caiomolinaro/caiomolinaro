@@ -9,8 +9,6 @@
 :desktop_computer: ASP.NET Core MVC       
 :keyboard: Entity Framework Core     
 :desktop_computer: Dapper  
-:keyboard: Programming logic   
-:desktop_computer: OOP   
 :keyboard: Git/GitHub   
 :desktop_computer: SQL Databases    
 :keyboard: NoSQL Databases    
