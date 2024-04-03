@@ -17,7 +17,7 @@
 
 ---
 
-:mortar_board: In addition to college, i'm learning in books and courses from Udemy, Microsoft Learn, AWS Educate and AWS Skill Builder
+:mortar_board: In addition to college, i'm studying in books and courses from Udemy, Microsoft Learn, AWS Educate and AWS Skill Builder
 
 ---
 <div align="center">
