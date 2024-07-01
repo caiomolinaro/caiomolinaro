@@ -19,9 +19,6 @@
 
 ---
 
-:mortar_board: In addition to college, i'm studying in books and courses from Udemy, Microsoft Learn, AWS Educate and AWS Skill Builder
-
----
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,visualstudio,aws,github,mysql,mongodb,docker)](https://skillicons.dev)  
