@@ -1,4 +1,4 @@
-:wave: Hello, my name is Caio, i'm systems analysis and development undergraduate student, my stack focus is backend .NET development  
+:wave: Hello, my name is Caio, i have a degree in Systems Analysis and Development, my stack focus is .NET backend development
 
 ---
 
