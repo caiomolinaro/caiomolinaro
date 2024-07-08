@@ -16,6 +16,7 @@
 :keyboard: NoSQL Databases    
 :desktop_computer: AWS        
 :keyboard: Docker         
+:desktop_computer: Agile Methodologies   
 
 ---
 
