@@ -16,7 +16,9 @@
 :keyboard: NoSQL Databases    
 :desktop_computer: AWS        
 :keyboard: Docker         
-:desktop_computer: Agile Methodologies   
+:desktop_computer: Agile Methodologies    
+
+:floppy_disk: All these skills were acquired through certificate courses and own projects.  
 
 ---
 
