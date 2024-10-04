@@ -1,4 +1,4 @@
-:wave: Hello, my name is Caio, i have a degree in Systems Analysis and Development, my stack focus is .NET backend development
+:wave: Hello, my name is Caio, i currently work as a Software Engineer I at the largest investment bank in Latin America.  
 
 ---
 
