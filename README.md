@@ -16,7 +16,8 @@
 :keyboard: NoSQL Databases    
 :desktop_computer: AWS        
 :keyboard: Docker         
-:desktop_computer: Agile Methodologies    
+:desktop_computer: Kafka   
+:keyboard: RabbitMQ  
 
 :floppy_disk: All these skills were acquired through certificate courses and own projects.  
 
@@ -24,7 +25,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,visualstudio,aws,azure,github,mysql,postgres,mongodb,docker,kafka)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,visualstudio,aws,azure,github,mysql,postgres,mongodb,docker,kafka,rabbitmq)](https://skillicons.dev)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiomolinaro&theme=transparent&layout=compact)
 
