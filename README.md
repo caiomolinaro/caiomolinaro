@@ -14,12 +14,12 @@
 :keyboard: Git/GitHub   
 :desktop_computer: SQL Databases    
 :keyboard: NoSQL Databases    
-:desktop_computer: AWS        
+:desktop_computer: Cloud Computing (Azure and AWS)             
 :keyboard: Docker         
 :desktop_computer: Kafka   
 :keyboard: RabbitMQ  
 
-:floppy_disk: All these skills were acquired through certificate courses and own projects.  
+:floppy_disk: These skills were developed through a combination of professional experience, certification courses, and personal projects.       
 
 ---
 
