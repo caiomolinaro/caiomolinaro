@@ -1,4 +1,4 @@
-:wave: Hello, my name is Caio, i currently work as a Software Engineer I at the largest investment bank in Latin America.  
+:wave: Hello, my name is Caio, i currently work as a Software Engineer II at the largest investment bank in Latin America.  
 
 ---
 
