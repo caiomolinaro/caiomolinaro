@@ -1,4 +1,4 @@
-:wave: Hello, my name is Caio, i currently work as a Software Engineer II at the largest investment bank in Latin America.  
+:wave: I am a Software Engineer with strong experience in developing robust and scalable applications using Microsoft technologies and agile practices.
 
 ---
 
