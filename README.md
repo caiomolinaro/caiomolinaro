@@ -1,24 +1,22 @@
-:wave: I am a Software Engineer with strong experience in developing robust and scalable applications using Microsoft technologies and agile practices.
+:wave: Hi, I am a Software Engineer with experience building scalable financial systems in cloud environments.
+
+I have worked on core banking and investment platforms responsible for high-volume transactional processing and large-scale balance and statement services. These systems required reliability, performance optimization, and solid distributed architecture.
+
+Currently, I work on financial management solutions, implementing AI-powered conversational features and Open Finance integrations. I also contribute to improvements in testing, observability, and overall system reliability.
 
 ---
 
-📖 I have skills in: 
+📖 I have skills in:
 
-:desktop_computer: C# .NET  
-:keyboard: ASP.NET Core Web API  
-:desktop_computer: ASP.NET Core MVC  
-:keyboard: Entity Framework Core  
-:desktop_computer: Dapper  
-:keyboard: Unit Tests  
-:desktop_computer: Integration Tests  
-:keyboard: Functional Tests  
-:desktop_computer: Git/GitHub  
-:keyboard: SQL Databases  
-:desktop_computer: NoSQL Databases  
-:keyboard: Cloud Computing (Azure and AWS)  
-:desktop_computer: Docker  
-:keyboard: Kafka  
-:desktop_computer: RabbitMQ  
+:desktop_computer: C# / .NET  
+:keyboard: ASP.NET Core  
+:desktop_computer: Entity Framework Core & Dapper  
+:keyboard: Automated Testing (Unit, Integration, Functional)  
+:desktop_computer: SQL Server, PostgreSQL & MongoDB  
+:keyboard: Azure & AWS  
+:desktop_computer: Docker & Kubernetes  
+:keyboard: Kafka & RabbitMQ  
+:desktop_computer: Git
 
 :floppy_disk: These skills were developed through a combination of professional experience, certification courses, and personal projects.       
 
