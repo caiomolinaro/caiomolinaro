@@ -26,7 +26,5 @@ Currently, I work on financial management solutions, implementing AI-powered con
 
 [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,visualstudio,aws,azure,github,mysql,postgres,mongodb,docker,kafka,rabbitmq)](https://skillicons.dev)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiomolinaro&theme=transparent&layout=compact)
-
 </div>
 
