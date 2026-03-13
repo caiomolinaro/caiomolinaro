@@ -1,4 +1,4 @@
-:wave: Hi, I am a Software Engineer with experience building scalable financial systems in cloud environments.
+:wave: Hi, I am a Software Engineer with experience building and maintenance scalable financial systems in cloud environments.
 
 I have worked on core banking and investment platforms responsible for high-volume transactional processing and large-scale balance and statement services. These systems required reliability, performance optimization, and solid distributed architecture.
 
