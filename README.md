@@ -12,13 +12,13 @@ Currently, I work on financial management solutions, implementing AI-powered con
 :keyboard: ASP.NET Core  
 :desktop_computer: Entity Framework Core & Dapper  
 :keyboard: Automated Testing (Unit, Integration, Functional)  
-:desktop_computer: SQL Server, PostgreSQL & MongoDB  
+:desktop_computer: SQL and NoSQL Databases  
 :keyboard: Azure & AWS  
 :desktop_computer: Docker & Kubernetes  
 :keyboard: Kafka & RabbitMQ  
 :desktop_computer: Git
 
-:floppy_disk: These skills were developed through a combination of professional experience, certification courses, and personal projects.       
+:floppy_disk: These skills were developed through a combination of professional experience, courses, and personal projects.       
 
 ---
 
